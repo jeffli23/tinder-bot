@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 from time import sleep
 from selenium.common.exceptions import ElementClickInterceptedException
 
-FB_EMAIL = "7739980377"
-FB_PASSWORD = "Sexy1994"
+FB_EMAIL = " "
+FB_PASSWORD = " "
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
